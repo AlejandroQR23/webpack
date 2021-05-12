@@ -17,13 +17,16 @@
     "babel-loader": "^8.2.2",
     "babel-minify-webpack-plugin": "^0.3.1",
     "babel-preset-minify": "^0.5.1",
+    "bootstrap": "^4.6.0",
     "copy-webpack-plugin": "^8.1.1",
     "css-loader": "^5.2.1",
     "file-loader": "^6.2.0",
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.1",
+    "jquery": "^3.6.0",
     "mini-css-extract-plugin": "^1.4.1",
     "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "popper.js": "^1.16.1",
     "sass": "^1.32.8",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
@@ -32,6 +35,5 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "bootstrap": "^4.6.0"
   }
 }
